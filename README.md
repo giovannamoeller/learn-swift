@@ -1,7 +1,7 @@
 # Basics Swift
 
 ### Studying a new programming language - Swift for iOS Development.
-<b>Note: this is a course from CodeCademy.</b>
+<b>Note: this is a course from CodeCademy. I had Swift's classes and challenges.</b>
 
 ## How to run a file?
 First of all, clone this repo. <br/>
