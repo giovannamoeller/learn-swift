@@ -95,7 +95,7 @@ print(avgSongLength(times: 183, 176, 180, 176, 184, 179, 181, 180, 172, 178))
 // In-Out Parameters
 
 var currentGeneratorState = "Off"
-
+  
 func generators(powerOutage: Bool, state: inout String) {
   if powerOutage {
     state = "On"
